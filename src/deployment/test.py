@@ -3,7 +3,7 @@ import json
 
 
 def process():
-				pass
+				print("deployment change")
 
 
 if __main__ == "__main__":
